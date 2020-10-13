@@ -1,2 +1,5 @@
 # stock-simulator
-Stock simulator API
+Is a stock simulating rest API made node
+
+# Functions
+ - no functionality implemented yet
